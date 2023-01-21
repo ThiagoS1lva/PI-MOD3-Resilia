@@ -1,0 +1,6 @@
+{
+    "/clientes/create": "/clientes/",
+    "/clientes/update/:id": "/clientes/:id",
+    "/clientes/delete/:id": "/clientes/:id"/clientes/list": "/clientes",
+    "
+}

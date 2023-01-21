@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "cpf": "12312312323",
+      "nome": "Jorge",
+      "numero": 2199999999
+    },
+    {
+      "id": 2,
+      "cpf": "12312312323",
+      "nome": "Amanda",
+      "numero": 2199999999
+    },
+    {
+      "id": 3,
+      "cpf": "12312312323",
+      "nome": "Pedro",
+      "numero": 2199999999
+    }
+  ],
+  "entregas": [
+    {
+      "id": 1,
+      "tipo": "Normal",
+      "peso": 10
+    },
+    {
+      "id": 2,
+      "tipo": "Normal",
+      "peso": 50
+    },
+    {
+      "id": 3,
+      "tipo": "express",
+      "peso": 10
+    },
+    {
+      "id": 4,
+      "tipo": "express",
+      "peso": 50
+    },
+    {
+      "id": 5,
+      "tipo": "Proximo dia",
+      "peso": 10
+    },
+    {
+      "id": 6,
+      "tipo": "Proximo dia",
+      "peso": 50
+    }
+  ],
+  "local": [
+    {
+      "id": 1,
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "rua": "Av. Getulio Vargas",
+      "numero": 20
+    },
+    {
+      "id": 2,
+      "estado": "SP",
+      "Cidade": "São Paulo",
+      "rua": "Av. Cruzeiro do sul",
+      "numero": 30
+    },
+    {
+      "id": 3,
+      "estado": "MG",
+      "Cidade": "Belo Horizonte",
+      "rua": "Rua dos Tupinambás",
+      "numero": 12
+    },
+    {
+      "id": 4,
+      "estado": "ES",
+      "Cidade": "Vitória",
+      "rua": "Rua José Marcelino",
+      "numero": 126
+    }
+  ]
+}
