@@ -10,4 +10,7 @@ O projeto consiste no desenvolvimento de um Json-server que contenha 3 rotas, on
 <b>4-</b> Agora, só acessa-lo usando a url "http://localhost:3000"
 
 ROTAS PERSONALIZADAS <br>
-<b>5-</b> Para acessar as rotas personalizadas, use o comando "npx json-server -r routes.json --watch db.json"
+<b>5-</b> Para acessar as rotas personalizadas, use o comando "npx json-server -r routes.json --watch db.json"<br>
+
+Rodando no render: 
+https://transportadora-json-server1.onrender.com/
