@@ -9,5 +9,5 @@ O projeto consiste no desenvolvimento de um Json-server que contenha 3 rotas, on
 <b>3-</b> No terminal, use o comando "npx json-server --watch db.json" para iniciar o JSON server<br>
 <b>4-</b> Agora, só acessa-lo usando a url "http://localhost:3000"
 
-ROTAS PERSONALIZADAS
+ROTAS PERSONALIZADAS <br>
 <b>5-</b> Para acessar as rotas personalizadas, use o comando "npx json-server -r routes.json --watch db.json"
